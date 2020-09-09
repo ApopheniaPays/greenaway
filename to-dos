@@ -1,0 +1,4 @@
+set up userscript
+grab tree traversal code from -----
+compile list of html elements of TG web client and Telegram React that may vary by user, compile css selectors
+PROFIT!
